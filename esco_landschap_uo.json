@@ -3,7 +3,7 @@
     "id":null,
     "name":"Agrarische beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/agr.svg",
-    "color":"#123456",
+    "color":"#006400",
     "children":[
       {
         "id":null,
@@ -595,7 +595,7 @@
     "id":null,
     "name":"Bedrijfseconomische en administratieve beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/off.svg",
-    "color":"#123456",
+    "color":"#0000c8",
     "children":[
       {
         "id":null,
@@ -2360,7 +2360,7 @@
     "id":null,
     "name":"Commerciële beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/sal.svg",
-    "color":"#123456",
+    "color":"#64C8C8",
     "children":[
       {
         "id":null,
@@ -3088,7 +3088,7 @@
     "id":null,
     "name":"Creatieve en taalkundige beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/art.svg",
-    "color":"#123456",
+    "color":"#6400C8",
     "children":[
       {
         "id":null,
@@ -4017,7 +4017,7 @@
     "id":null,
     "name":"Dienstverlenende beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/die.svg",
-    "color":"#123456",
+    "color":"#C8C864",
     "children":[
       {
         "id":null,
@@ -4787,7 +4787,7 @@
     "id":null,
     "name":"ICT beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/ict.svg",
-    "color":"#123456",
+    "color":"#646464",
     "children":[
       {
         "id":null,
@@ -5402,7 +5402,7 @@
     "id":null,
     "name":"Managers",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/man.svg",
-    "color":"#123456",
+    "color":"#9626A7",
     "children":[
       {
         "id":null,
@@ -6443,7 +6443,7 @@
     "id":null,
     "name":"Openbaar bestuur, veiligheid en juridische beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/law.svg",
-    "color":"#123456",
+    "color":"#357975",
     "children":[
       {
         "id":null,
@@ -7241,7 +7241,7 @@
     "id":null,
     "name":"Pedagogische beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tea.svg",
-    "color":"#123456",
+    "color":"#006464",
     "children":[
       {
         "id":null,
@@ -7805,7 +7805,7 @@
     "id":null,
     "name":"Technische beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tec.svg",
-    "color":"#123456",
+    "color":"#C86400",
     "children":[
       {
         "id":null,
@@ -14105,7 +14105,7 @@
     "id":null,
     "name":"Transport en logistiek beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tra.svg",
-    "color":"#123456",
+    "color":"#64C864",
     "children":[
       {
         "id":null,
@@ -15066,7 +15066,7 @@
     "id":null,
     "name":"Zorg en welzijn beroepen",
     "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/hea.svg",
-    "color":"#123456",
+    "color":"#C86464",
     "children":[
       {
         "id":null,
