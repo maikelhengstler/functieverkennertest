@@ -2,7 +2,7 @@
   {
     "id":null,
     "name":"Agrarische beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/agr.svg",
     "color":"#123456",
     "children":[
       {
