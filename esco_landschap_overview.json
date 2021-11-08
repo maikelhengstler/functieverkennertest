@@ -1,0 +1,74 @@
+[
+  {
+    "id":null,
+    "name":"Agrarische beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Bedrijfseconomische en administratieve beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Commerciële beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Creatieve en taalkundige beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Dienstverlenende beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"ICT beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Managers",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Openbaar bestuur, veiligheid en juridische beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Pedagogische beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Technische beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Transport en logistiek beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	},
+  {
+    "id":null,
+    "name":"Zorg en welzijn beroepen",
+    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
+    "color":"#123456"
+	}
+]
