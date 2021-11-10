@@ -2,73 +2,73 @@
   {
     "id":null,
     "name":"Agrarische beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/agr.svg",
+    "color":"#3CB44B"
 	},
   {
     "id":null,
     "name":"Bedrijfseconomische en administratieve beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/off.svg",
+    "color":"#42D4F4"
 	},
   {
     "id":null,
     "name":"Commerciële beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/sal.svg",
+    "color":"#4363D8"
 	},
   {
     "id":null,
     "name":"Creatieve en taalkundige beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/art.svg",
+    "color":"#DCBEFF"
 	},
   {
     "id":null,
     "name":"Dienstverlenende beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/die.svg",
+    "color":"#F032E6"
 	},
   {
     "id":null,
     "name":"ICT beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/ict.svg",
+    "color":"#9A6324"
 	},
   {
     "id":null,
     "name":"Managers",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/man.svg",
+    "color":"#DF0000"
 	},
   {
     "id":null,
     "name":"Openbaar bestuur, veiligheid en juridische beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/law.svg",
+    "color":"#AFAF00"
 	},
   {
     "id":null,
     "name":"Pedagogische beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tea.svg",
+    "color":"#FABED4"
 	},
   {
     "id":null,
     "name":"Technische beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tec.svg",
+    "color":"#469990"
 	},
   {
     "id":null,
     "name":"Transport en logistiek beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/tra.svg",
+    "color":"#F58231"
 	},
   {
     "id":null,
     "name":"Zorg en welzijn beroepen",
-    "image":"https://www.gravatar.com/avatar/5859520092730390?f=y&d=robohash&s=200",
-    "color":"#123456"
+    "image":"https://raw.githubusercontent.com/maikelhengstler/functieverkennertest/main/hea.svg",
+    "color":"#E6194B"
 	}
 ]
