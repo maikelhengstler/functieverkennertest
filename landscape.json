@@ -1,0 +1,1431 @@
+{
+  "landscapeName": "landschap",
+  "children": [
+    {
+      "id": 1447,
+      "name": "Chauffeur",
+      "attributes": {
+        "color": "#005187",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Chauffeurs.svg"
+      },
+      "children": [
+        {
+          "id": 1454,
+          "name": "Afvalstoffenvervoer",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Afvalstoffenvervoer.svg"
+          },
+          "children": [
+            {
+              "id": 248119,
+              "name": "Chauffeur container / afzetbakken",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248121,
+              "name": "Chauffeur containerwagen / autolaadkraan",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248131,
+              "name": "Chauffeur kga",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248137,
+              "name": "Chauffeur portaalwagen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248150,
+              "name": "Chauffeur vuilnisophaaldienst",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248190,
+              "name": "Machinist rioolcombi",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1455,
+          "name": "Agrarisch/vee",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Agrarisch.svg"
+          },
+          "children": [
+            {
+              "id": 248111,
+              "name": "Chauffeur agrarisch vervoer kipper / container",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248112,
+              "name": "Chauffeur agrarische vervoer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248114,
+              "name": "Chauffeur bloemen en planten, regionaal",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248115,
+              "name": "Chauffeur bloemen en planten, nationaal",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248116,
+              "name": "Chauffeur bloemen en planten, internationaal",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248129,
+              "name": "Chauffeur groente- en fruittransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248135,
+              "name": "Chauffeur land- en tuinbouwproducten",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248136,
+              "name": "Chauffeur pluimvee",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248149,
+              "name": "Chauffeur veetransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1456,
+          "name": "Autotransport",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Autotransport.svg"
+          },
+          "children": [
+            {
+              "id": 248113,
+              "name": "Chauffeur autotransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1457,
+          "name": "Distributie",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Distributie.svg"
+          },
+          "children": [
+            {
+              "id": 248109,
+              "name": "Chauffeur (keuken)meubel",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248120,
+              "name": "Chauffeur containertransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248122,
+              "name": "Chauffeur dc-dc",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248123,
+              "name": "Chauffeur dc-winkel",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248126,
+              "name": "Chauffeur distributie",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248127,
+              "name": "Chauffeur distributie palletgoed ",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248132,
+              "name": "Chauffeur koel / vries overig",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248133,
+              "name": "Chauffeur koel / vries winkeldistributie",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248134,
+              "name": "Chauffeur koel / vrieshuizen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248141,
+              "name": "Chauffeur stukgoed (partijen / bundels)",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248142,
+              "name": "Chauffeur stukgoed en partijen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248146,
+              "name": "Chauffeur terminal containertransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248151,
+              "name": "Chauffeur wit- / bruingoed",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1458,
+          "name": "Kipper/bouw/exceptioneel",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Kipper.svg"
+          },
+          "children": [
+            {
+              "id": 248110,
+              "name": "Chauffeur (zand, grind, asfalt)",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248117,
+              "name": "Chauffeur bouwmaterialen autolaadkraan",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248124,
+              "name": "Chauffeur dieplader met autolaadkraan",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248125,
+              "name": "Chauffeur dieplader zonder autolaadkraan",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248128,
+              "name": "Chauffeur glastransport",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248139,
+              "name": "Chauffeur stenenvervoer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248147,
+              "name": "Chauffeur Trekker met (semi)dieplader en autolaadkraan ",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248148,
+              "name": "Chauffeur truckmixer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248152,
+              "name": "Chauffeur zand / bouwmaterialen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1459,
+          "name": "Koerier/pakketbezorger",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Koerier.svg"
+          },
+          "children": [
+            {
+              "id": 248174,
+              "name": "Koerier (spoed) enkelstuks",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248175,
+              "name": "Koerier / pakketbezorger",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1460,
+          "name": "Tank en rijdende melkontvangst (RMO)",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Tank_RMO.svg"
+          },
+          "children": [
+            {
+              "id": 248118,
+              "name": "Chauffeur brandstoffenvervoer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248138,
+              "name": "Chauffeur r.m.o. (rijdende melkontvangst)",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248143,
+              "name": "Chauffeur tankauto (petro)chemisch",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248144,
+              "name": "Chauffeur tankauto diversen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248145,
+              "name": "Chauffeur tankauto voedingsmiddelen",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1461,
+          "name": "Verhuisvervoer",
+          "attributes": {
+            "color": "#0088E3",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Verhuisvervoer.svg"
+          },
+          "children": [
+            {
+              "id": 248105,
+              "name": "Assistent verhuizer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248153,
+              "name": "Chauffeur / verhuizer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248239,
+              "name": "Uitvoerder verhuizer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248240,
+              "name": "Verhuismedewerker",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            },
+            {
+              "id": 248242,
+              "name": "Voorman verhuizer",
+              "attributes": {
+                "color": "#A1D9FF"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1448,
+      "name": "Logistiek",
+      "attributes": {
+        "color": "#F39200",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Logistiek.svg"
+      },
+      "children": [
+        {
+          "id": 1462,
+          "name": "Warehouse",
+          "attributes": {
+            "color": "#FFA217",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Warehouse.svg"
+          },
+          "children": [
+            {
+              "id": 1464,
+              "name": "Uitvoering",
+              "attributes": {
+                "color": "#FFAF38",
+                "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Uitvoering.svg"
+              },
+              "children": [
+                {
+                  "id": 248161,
+                  "name": "Container losser",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248168,
+                  "name": "Heftruckchauffeur",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248180,
+                  "name": "Logistiek medewerker",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248181,
+                  "name": "Logistiek medewerker - container heftruck",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248182,
+                  "name": "Logistiek medewerker - terminal trekker",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248183,
+                  "name": "Logistiek medewerker inbound",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248184,
+                  "name": "Logistiek medewerker outbound",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248185,
+                  "name": "Logistiek medewerker vas",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248204,
+                  "name": "Medewerker voorraadbeheer",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248208,
+                  "name": "Orderverzamelaar",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248217,
+                  "name": "Reachtruck chauffeur",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248218,
+                  "name": "Schoonmaker warehouse",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 1465,
+              "name": "Procesondersteunend",
+              "attributes": {
+                "color": "#FFAF38",
+                "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Procesondersteunend.svg"
+              },
+              "children": [
+                {
+                  "id": 248178,
+                  "name": "Logistiek engineer",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248194,
+                  "name": "Medewerker bedrijfsbureau",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248223,
+                  "name": "Stafmedewerker ondersteuning wms",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 1466,
+              "name": "Leidinggevenden",
+              "attributes": {
+                "color": "#FFAF38",
+                "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Leidinggevenden.svg"
+              },
+              "children": [
+                {
+                  "id": 248193,
+                  "name": "Manager operations",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248222,
+                  "name": "Site manager",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248224,
+                  "name": "Supply chain manager",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248225,
+                  "name": "Teamleider customer service",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248226,
+                  "name": "Teamleider inbound",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248227,
+                  "name": "Teamleider orderpicker",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248228,
+                  "name": "Teamleider outbound",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248229,
+                  "name": "Teamleider vas",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248230,
+                  "name": "Teamleider warehouse",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248231,
+                  "name": "Teamleider warehouse support",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                },
+                {
+                  "id": 248243,
+                  "name": "Warehousemanager",
+                  "attributes": {
+                    "color": "#FFE4BD"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1463,
+          "name": "Milieustraat",
+          "attributes": {
+            "color": "#FFA217",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Milieustraat.svg"
+          },
+          "children": [
+            {
+              "id": 248107,
+              "name": "Beheerder milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            },
+            {
+              "id": 248108,
+              "name": "Beheerder / acceptant milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            },
+            {
+              "id": 248162,
+              "name": "Controleur / sorteerder milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            },
+            {
+              "id": 248172,
+              "name": "Ingangscontroleur milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            },
+            {
+              "id": 248177,
+              "name": "Laborant milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            },
+            {
+              "id": 248202,
+              "name": "Medewerker milieustraat",
+              "attributes": {
+                "color": "#FFE4BD"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1449,
+      "name": "Takel, berging en verticaaltransport (VVT)",
+      "attributes": {
+        "color": "#E94E1B",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Takel_VVT.svg"
+      },
+      "children": [
+        {
+          "id": 248130,
+          "name": "Chauffeur hoogwerker - machinist",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248140,
+          "name": "Chauffeur stukgoed (autolaadkraan)",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248154,
+          "name": "Chauffeur - berger",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248176,
+          "name": "Kraanhulp",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248187,
+          "name": "Machinist autokraan",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248188,
+          "name": "Machinist hydraulische ruwterreinkraan",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248189,
+          "name": "Machinist mobiele torenkraan",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248191,
+          "name": "Machinist rupskraan",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248192,
+          "name": "Machinist / monteur opbouwkraan",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248212,
+          "name": "Planner kranen",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248235,
+          "name": "Transportbegeleider",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248238,
+          "name": "Uitvoerder hijswerken en zwaar transport",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        },
+        {
+          "id": 248241,
+          "name": "Voorman machinist",
+          "attributes": {
+            "color": "#F9D3C6"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 1450,
+      "name": "Planning",
+      "attributes": {
+        "color": "#679436",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Planning.svg"
+      },
+      "children": [
+        {
+          "id": 1470,
+          "name": "Logistieke planning",
+          "attributes": {
+            "color": "#8EC256",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Logistieke_planning.svg"
+          },
+          "children": [
+            {
+              "id": 248166,
+              "name": "Distributieplanner",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248186,
+              "name": "Logistiek planner",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248213,
+              "name": "Planner vas",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1471,
+          "name": "Transport planning",
+          "attributes": {
+            "color": "#8EC256",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Transport_planning.svg"
+          },
+          "children": [
+            {
+              "id": 248103,
+              "name": "Assistent planner",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248104,
+              "name": "Assistent planning",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248155,
+              "name": "Chauffeursindeler",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248158,
+              "name": "Chef planning tankvervoer (intern. transporten)",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248170,
+              "name": "Hoofd planner",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248211,
+              "name": "Planner containervervoer",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248214,
+              "name": "Planner wegtransport",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248215,
+              "name": "Planner / werkverdeler",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248234,
+              "name": "Transport coördinator",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248236,
+              "name": "Transportleider / planner",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            },
+            {
+              "id": 248237,
+              "name": "Transportmanager",
+              "attributes": {
+                "color": "#D9EBC7"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1451,
+      "name": "Onderhoud en keuring",
+      "attributes": {
+        "color": "#009FE3",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Onderhoud_Keuring.svg"
+      },
+      "children": [
+        {
+          "id": 248097,
+          "name": "1e monteur / keurmeester",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248102,
+          "name": "Assistent monteur",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248106,
+          "name": "Automonteur",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248156,
+          "name": "Chef constructie - werkplaats",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248157,
+          "name": "Chef monteur / garagechef",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248171,
+          "name": "Hulpmonteur",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248205,
+          "name": "Monteur / keurmeester",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248207,
+          "name": "Onderhoudsmonteur geautomatiseerde magazijnen",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        },
+        {
+          "id": 248232,
+          "name": "Technisch medewerker",
+          "attributes": {
+            "color": "#B9EAFF"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 1452,
+      "name": "Commercieel, financieel en administratief",
+      "attributes": {
+        "color": "#A3195B",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Com_Fin_Adm.svg"
+      },
+      "children": [
+        {
+          "id": 1467,
+          "name": "Administratief",
+          "attributes": {
+            "color": "#DE2F84",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Administratief.svg"
+          },
+          "children": [
+            {
+              "id": 248100,
+              "name": "Administratief medewerker",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248101,
+              "name": "Administratief medewerker bevrachting",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248163,
+              "name": "Coördinator declaranten",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248199,
+              "name": "Medewerker in- en verkoop administratie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248201,
+              "name": "Medewerker luchtvracht",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248203,
+              "name": "Medewerker orderontvangst en informatie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248219,
+              "name": "Secretaresse",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248233,
+              "name": "Telefonist / administratief medewerker",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1468,
+          "name": "Commercieel",
+          "attributes": {
+            "color": "#DE2F84",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Commercieel.svg"
+          },
+          "children": [
+            {
+              "id": 248159,
+              "name": "Commercieel medewerker binnendienst",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248160,
+              "name": "Commercieel - technisch adviseur",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248164,
+              "name": "Coördinator serviceafdeling",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248165,
+              "name": "Declarant",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248167,
+              "name": "Expediteur",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248173,
+              "name": "Inkoper - administrateur",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248179,
+              "name": "Logistiek inkoper",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248200,
+              "name": "Medewerker klantenservice",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248206,
+              "name": "Office manager",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248221,
+              "name": "Service medewerker europa",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1469,
+          "name": "Financieel",
+          "attributes": {
+            "color": "#DE2F84",
+            "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/Financieel.svg"
+          },
+          "children": [
+            {
+              "id": 248098,
+              "name": "Administrateur",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248099,
+              "name": "Administratie medewerker financiën",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248169,
+              "name": "Hoofd administratie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248195,
+              "name": "Medewerker boekhouding",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248196,
+              "name": "Medewerker crediteurenadministratie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248197,
+              "name": "Medewerker debiteurenadministratie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            },
+            {
+              "id": 248198,
+              "name": "Medewerker financiële administratie",
+              "attributes": {
+                "color": "#F4BAD6"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1453,
+      "name": "HR en kwaliteit",
+      "attributes": {
+        "color": "#85BAA1",
+        "icon": "https://public-stl-documents.s3.eu-central-1.amazonaws.com/icons/HR.svg"
+      },
+      "children": [
+        {
+          "id": 248209,
+          "name": "Personeelsfunctionaris beleid",
+          "attributes": {
+            "color": "#E1EEE8"
+          },
+          "children": []
+        },
+        {
+          "id": 248210,
+          "name": "Personeelsfunctionaris operationeel",
+          "attributes": {
+            "color": "#E1EEE8"
+          },
+          "children": []
+        },
+        {
+          "id": 248216,
+          "name": "Preventiemedewerker",
+          "attributes": {
+            "color": "#E1EEE8"
+          },
+          "children": []
+        },
+        {
+          "id": 248220,
+          "name": "Secretaresse / medewerker (personeelszaken)",
+          "attributes": {
+            "color": "#E1EEE8"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}
